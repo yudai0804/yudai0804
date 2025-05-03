@@ -1,6 +1,6 @@
 # About
 - 山口雄大/Yudai Yamaguchi
-- 東京都立産業技術高等専門学校 情報通信工学コース 5年
+- 長岡技術科学大学 B3
 
 # Contact
 - mail: yudai.yy0804@gmail.com
